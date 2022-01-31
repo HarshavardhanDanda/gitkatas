@@ -1,1 +1,1 @@
-this is the second txt file im adding 
+this is the second txt file im adding , i changed something in second.txt
